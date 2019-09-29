@@ -1,0 +1,30 @@
+[submodule "kubernetes"]
+	path = kubernetes
+	url = git@github.com:kubernetes/kubernetes.git
+[submodule "apiserver"]
+	path = apiserver
+	url = git@github.com:kubernetes/apiserver.git
+[submodule "security"]
+	path = security
+	url = git@github.com:kubernetes/security.git
+[submodule "kubectl"]
+	path = kubectl
+	url = git@github.com:kubernetes/kubectl.git
+[submodule "kube-scheduler"]
+	path = kube-scheduler
+	url = git@github.com:kubernetes/kube-scheduler.git
+[submodule "kube-proxy"]
+	path = kube-proxy
+	url = git@github.com:kubernetes/kube-proxy.git
+[submodule "cli-runtime"]
+	path = cli-runtime
+	url = git@github.com:kubernetes/cli-runtime.git
+[submodule "kubelet"]
+	path = kubelet
+	url = git@github.com:kubernetes/kubelet.git
+[submodule "dns"]
+	path = dns
+	url = git@github.com:kubernetes/dns.git
+[submodule "kompose"]
+	path = kompose
+	url = git@github.com:kubernetes/kompose.git
