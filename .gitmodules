@@ -28,3 +28,6 @@
 [submodule "kompose"]
 	path = kompose
 	url = git@kubematic.github.com:kubematic/kompose.git
+[submodule "orchestrate-with-kubernetes"]
+	path = orchestrate-with-kubernetes
+	url = https://github.com/googlecodelabs/orchestrate-with-kubernetes.git
